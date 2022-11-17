@@ -1,0 +1,66 @@
+{
+   "terminal.integrated.fontSize": 14,
+   "tabnine.experimentalAutoImports": true,
+   "editor.fontFamily": "JetBrains Mono",
+   "editor.fontSize": 14,
+   "editor.lineHeight": 24,
+   "editor.fontLigatures": true,
+   "prettier.tabWidth": 3,
+   "git.autofetch": true,
+   "workbench.colorTheme": "Dracula Refined",
+
+   "emmet.syntaxProfiles": { "javascript": "jsx" },
+   "emmet.includeLanguages": { "javascript": "javascriptreact" },
+
+   "typescript.tsserver.log": "off",
+   "javascript.suggest.autoImports": true,
+   "typescript.suggest.autoImports": true,
+   "material-icon-theme.activeIconPack": "nest",
+   "screencastMode.onlyKeyboardShortcuts": true,
+
+   "[prisma]": {
+      "editor.formatOnSave": true,
+      "editor.defaultFormatter": "Prisma.prisma",
+   },
+
+   "[javascript]": {
+      "editor.autoClosingBrackets": "always",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[typescript]": {
+      "editor.autoClosingBrackets": "always",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[javascriptreact]": {
+      "editor.autoClosingBrackets": "always",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[typescriptreact]": {
+      "editor.autoClosingBrackets": "always",
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+   "editor.renderLineHighlight": "gutter",
+   "settingsSync.ignoredExtensions": ["eamodio.gitlens"],
+   "editor.bracketPairColorization.enabled": true,
+   "editor.guides.bracketPairs": true,
+   "cSpell.language": "en,pt",
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.inlineSuggest.enabled": true,
+   "files.autoSave": "afterDelay",
+
+   "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
+   "workbench.iconTheme": "material-icon-theme",
+   "github.copilot.enable": {
+      "*": true,
+      "yaml": false,
+      "plaintext": false,
+      "markdown": false
+   },
+   "sync.gist": "12791f0b676d4fe5c95a70bf93de25b8",
+   "editor.formatOnSave": true,
+   "editor.formatOnSaveMode": "modifications"
+}
